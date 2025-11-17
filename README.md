@@ -1,9 +1,5 @@
 # Hello! I'm AHMET GÜNGÖRMEZ 👋
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmetgngrmez&show_icons=true&theme=default&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🚀 Summary & Career Goals
 
 I am a proactive and detail-oriented **second-year Computer Engineering student**. I possess a strong foundation in mathematics and maintain a diligent approach to every task.
